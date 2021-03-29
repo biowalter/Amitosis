@@ -1,2 +1,2 @@
 # Amitosis
-Supplementary Code and input data from the Amitosis project
+Supplementary Code and Input Data from the Amitosis project
